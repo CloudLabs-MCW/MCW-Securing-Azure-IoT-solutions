@@ -14,7 +14,6 @@
         {
           "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Securing-Azure-IoT-solutions/prod/Hands-on%20lab/02.md",
           "Order": 3
-
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Securing-Azure-IoT-solutions/prod/Hands-on%20lab/03.md",
@@ -43,6 +42,22 @@
         {
           "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Securing-Azure-IoT-solutions/prod/Hands-on%20lab/09.md",
           "Order": 10
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Securing-Azure-IoT-solutions/prod/Hands-on%20lab/10.md",
+          "Order": 11
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Securing-Azure-IoT-solutions/prod/Hands-on%20lab/11.md",
+          "Order": 12
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Securing-Azure-IoT-solutions/prod/Hands-on%20lab/12.md",
+          "Order": 13
+        },
+        {
+          "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MCW/MCW-Securing-Azure-IoT-solutions/prod/Hands-on%20lab/13.md",
+          "Order": 14
         }
       ]
     }
